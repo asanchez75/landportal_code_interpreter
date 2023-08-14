@@ -1,4 +1,4 @@
-# landportal_code_interpreter
+# Examples of how to use ChagGPT 4 (Code Interpreter) to analyze Landportal indicators data
 
 * [State and challenges of the land around the world](https://htmlpreview.github.io/?https://raw.githubusercontent.com/asanchez75/landportal_code_interpreter/main/Land%20Indicators%20-%20EDA%20for%20%20state%20and%20challenges%20of%20the%20land%20.html)
 
@@ -9,7 +9,7 @@
 * [Formulation of hypothesis to be tested through data analysis.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/asanchez75/landportal_code_interpreter/main/Formulation%20of%20hypothesis%20to%20be%20tested%20through%20data%20analysis.html)
 
 
-## SPARQL query to extract data into CSV format
+## SPARQL query to extract Indicators data into CSV format
 
 
 ```sparql
